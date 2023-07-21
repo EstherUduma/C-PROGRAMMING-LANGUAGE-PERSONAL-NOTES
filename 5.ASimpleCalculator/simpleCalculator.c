@@ -18,7 +18,7 @@ int main() {
     else if (letter == 'B' || letter == 'b')
     {
         num4 = num1 - num2;
-        printf("The subtraction of %f and %f is %f\n", num1, num2, num4);
+        printf("The difference of %f and %f is %f\n", num1, num2, num4);
     }
     else if (letter == 'C' || letter == 'c')
     {
