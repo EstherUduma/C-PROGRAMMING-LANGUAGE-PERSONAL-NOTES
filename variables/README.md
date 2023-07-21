@@ -6,7 +6,7 @@ The format to creating a variable: <br>
 datatype variable_name = value; <br>
 <br>
 Int - Integer variables that allows us store only integer values. <br>
-float - Float variables that allows us store decimal values.
+float - Float variables that allows us store decimal values. <br>
 char - Character variables allows us store characters.
 
 <h2>Environments Used </h2>
