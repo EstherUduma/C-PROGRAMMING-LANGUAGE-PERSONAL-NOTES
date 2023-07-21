@@ -6,9 +6,9 @@ Here is a short code on how to print my name and basically introduce myself. Thi
 <h2>Code Explained</h2>
 \n - newline <br>
 \t - tab <br>
-\n and \t are escape characters.
-printf - prints out unto the screen, text.
-int main() - it's the entry point of the program, and it's case-sensitive. It takes no argument.
+\n and \t are escape characters. <br>
+printf - prints out unto the screen, text. <br>
+int main() - it's the entry point of the program, and it's case-sensitive. It takes no argument. <br>
 return (0) - Tells the program to stop executing.
 
 <h2>Environments Used </h2>
